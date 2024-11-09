@@ -72,6 +72,19 @@ This extension is for personal use only. Be mindful of privacy and data protecti
 - Discord Webhook API
 - All contributors and users
 
+## 🔒 Environment Setup
+
+1. Create a `.env` file in the project root
+2. Add your Discord webhook URL:   ```env
+   DISCORD_WEBHOOK_URL=your_webhook_url_here   ```
+3. Never commit the `.env` file to version control
+
+## 🚀 Development Setup
+
+1. Copy `.env.example` to `.env`
+2. Add your Discord webhook URL to `.env`
+3. Follow the regular installation steps
+
 ---
 <div align="center">
   Made with ❤️ by [Your Name/Username]

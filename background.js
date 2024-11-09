@@ -1,4 +1,4 @@
-const WEBHOOK_URL = "https://discord.com/api/webhooks/1206958420721406034/NVR7tG0gzJEKK8NSFFIheejNJw_qK3ImziuEULWKdWoNcq40sqbvqMPi8I7n67oSA6Qz";
+import { WEBHOOK_URL } from './config.js';
 
 // Default settings
 let settings = {
