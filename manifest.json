@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "URL Logger",
+  "version": "1.0",
+  "description": "Logs URLs to Discord",
+  "icons": {
+    "128": "logo.png"
+  },
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "incognito": "split",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "logo.png"
+  }
+} 
