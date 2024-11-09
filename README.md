@@ -66,13 +66,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This extension is for personal use only. Be mindful of privacy and data protection laws when logging URLs.
 
-## 🙏 Acknowledgments
-
-- Chrome Extensions API
-- Discord Webhook API
-- All contributors and users
 
 ---
 <div align="center">
-  Made with ❤️ by [Your Name/Username]
+  Made with ❤️ by Gokulbarath
 </div> 
